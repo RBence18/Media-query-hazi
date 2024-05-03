@@ -1,0 +1,37 @@
+body{
+    background-color: silver;
+}
+#header{
+    background-color: #b588e7;
+    text-align: center;
+    margin: auto;
+   
+ 
+}
+#main{
+    background-color: #a7dc8a;
+    text-align: center;
+    width: 70px
+}  
+#sidebar{
+    background-color: #e3b957;
+    text-align: center;
+  
+}
+#widget{
+    background-color: #eb867c;
+    text-align: center;
+ inline-size: 50%;
+}
+#statistics{
+    background-color:  #91b7e8;
+    text-align: center;
+    inline-size: 50%;
+    margin: auto;
+}
+#footer{
+    background-color: #b588e7;
+    text-align: center;
+    margin: auto;
+    height: 17px;
+}
